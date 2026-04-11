@@ -1,0 +1,17 @@
+BRIEFING
+
+
+CLIENTE :  ESCOLA CAMINHO SUAVE
+PRODUTO :  APLICATIVO
+PRAZO : 1 SEMANA
+
+ESTUDO DE CASO
+
+Escola de Educação infantil deseja criar um aplicativo onde as crianças vinculem a imagem ao som. O aplicativo será voltado para crianças de 1 á 4 anos de idade. Segundo a pedagoga da escola Sra, Berenice, o app funcionara como aprendizado de forma lúdica. O app será fornecido gratuitamente aos pais e professores.
+
+REQUISITOS 
+
+- Criar identidade Visual ( Icone / Nome/ Logo /Splash Screen)
+- O App deverá trabalhar com som de animais e som de números 
+( 8 Animais , Números do 1 ao 10)
+- Deverá ter no mínimo 3 telas (Excluindo-se Splash Screen)
