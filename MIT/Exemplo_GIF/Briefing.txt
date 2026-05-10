@@ -1,0 +1,4 @@
+Criar um app com as seguintes caracteristicas)
+
+	- Splash Screen \  2 Telas \ Icone 
+	- Dois gifs animados 
